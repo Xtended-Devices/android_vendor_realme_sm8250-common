@@ -59,7 +59,7 @@ android_app_import {
 android_app_import {
 	name: "MotoSignatureApp",
 	owner: "realme",
-	apk: "proprietary/vendor/app/MotoSignatureApp/MotoSignatureApp.apk",
+	apk: "proprietary/system_ext/app/MotoSignatureApp/MotoSignatureApp.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,

@@ -238,7 +238,7 @@ dex_import {
 dex_import {
 	name: "com.motorola.frameworks.core.addon",
 	owner: "realme",
-	jars: ["proprietary/product/framework/com.motorola.frameworks.core.addon.jar"],
+	jars: ["proprietary/system_ext/framework/com.motorola.frameworks.core.addon.jar"],
 	product_specific: true,
 }
 
